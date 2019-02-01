@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: “Welcome to our second slide!”
+layout: new
+title: “Welcome!”
 ---
-Your test
-Use the left arrow to go back!
+test
+continuous!
